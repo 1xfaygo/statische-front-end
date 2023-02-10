@@ -1,0 +1,28 @@
+
+
+body{
+    margin-left: 250px;
+    font-size: 20px  
+}
+
+h1{
+    font-size: 36px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.inleiding{
+    width: 30%;
+}
+
+.body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0 auto;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;      
+}

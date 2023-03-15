@@ -1,12 +1,15 @@
-
-
 body{
     margin-left: 250px;
-    font-size: 20px  
+    font-size: 20px   
 }
 
 h1{
     font-size: 36px;
+}
+
+
+h2{
+    font-size: 24px;
 }
 
 li{
@@ -23,6 +26,17 @@ li{
     margin: 0 auto;
 }
 
-*{
-    font-family: 'Roboto', sans-serif;      
+
+.tip{
+    border:solid #def6ed 4px;
+    background-color: #def6ed;
+}
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+ol{
+    margin-bottom: 10px;
 }
